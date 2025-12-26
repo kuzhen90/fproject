@@ -19,3 +19,6 @@ build/
 # Environment
 .env
 .env.local
+
+# API tutorials (may contain keys)
+Anthropic_api_fundamentals/
